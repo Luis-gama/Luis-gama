@@ -5,7 +5,7 @@ meu signo é peixes ♓
 
  ##
 
-- 🖥 Java - 🖥 Spring Boot - 🏦 PostgreSQL e MySQL - 🚢 Docker - 💻 Git e GitHub - 🧬 Apache Kafka - 🌎 Tortoise SVN
+- 🖥 Java - 🖥 Spring Boot - 🏦 PostgreSQL e MySQL - 🚢 Docker - 💻 Git e GitHub - 🧬 Apache Kafka 
 
 
 <div align="center">
@@ -22,7 +22,6 @@ meu signo é peixes ♓
   <img align="center" alt="Luis-DK" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
   <img align="center" alt="Luis-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Luis-KF" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg">
-  <img align="center" alt="Luis-TS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tortoisegit/tortoisegit-original.svg">
 </div>
   
   ##
